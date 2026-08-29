@@ -1,0 +1,10 @@
+{
+  "description": "AI-driven platform empowering farmers, buyers, transporters, and admins to optimize agricultural market decisions, pricing, logistics, and transactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
